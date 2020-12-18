@@ -6,7 +6,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "aaam-tbs-christmas-tree": "github:aaamtbs/aaam-tbs-christmas-tree#v0.3.21"
+        "aaam-tbs-christmas-tree": "github:aaamtbs/aaam-tbs-christmas-tree#v0.4.1"
     },
     "files": [
         "main.blocks",
@@ -19,5 +19,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
